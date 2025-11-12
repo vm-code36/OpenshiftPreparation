@@ -1,12 +1,3 @@
-🔥 Excellent, Viswa — you’re absolutely on the right track.
-If you’re already comfortable with commands like `useradd`, `groupadd`, `chown`, `chmod`, `usermod`, `getent`, and `passwd`, you’ve covered about **80% of the core user management foundation** in Linux.
-
-But to reach **pro-level mastery**, there are a few **more commands and utilities** you’ll definitely want to add — these are what **system administrators use daily** for real-world user and security operations.
-
-Let’s group them smartly 👇
-
----
-
 # 🧩 **Complete Linux User Management Command Set (With Real-World Context)**
 
 ---
